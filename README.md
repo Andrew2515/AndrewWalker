@@ -31,7 +31,7 @@ Here are some of my pinned repositories:
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrew-walker)  
+- 💼 [LinkedIn]  linkedin.com/in/andrew-walker-bb0726185 
 - 🌐 [GitHub](https://github.com/AndrewWalker)  
 - ✉️ **Email:** andrew.walker@example.com  
 
