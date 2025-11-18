@@ -20,13 +20,30 @@
 `Java` · `JavaScript` · `TypeScript` · `Node.js` · `Express` · `MySQL` · `HTML5` · `CSS3` · `Bootstrap 5` · `EJS` · `Git` · `Linux`
 
 ---
+📚 Featured Projects
+🛒 E-Commerce Gym Clothing Website
+Node.js | Express | MySQL | EJS | Bootstrap 5
+Full-stack e-commerce application featuring dynamic product pages, shopping cart functionality, session-based authentication, and admin product management.
 
-### 📚 Featured Projects
-Here are some of my pinned repositories:
-- 🛒 [E-Commerce Gym Clothing Website](#) – Node.js, Express, MySQL, EJS Templates  
-- 🐾 [Veterinary Practice Database](#) – Database design, ERD, SQL queries  
-- ⚙️ [Java Threading Labs](#) – Runnable and Thread class examples  
-- 🏉 [Wild Atlantic Way Rugby Club Database](#) – MySQL schema design and DML scripts  
+🔐 Software Encoding & Decoding System
+Java | OOP | Arrays | CLI Application
+Custom-built encoder/decoder using a CSV mapping of 9,999 entries. Includes colour-coded terminal output, robust error handling, and full documentation. Designed for performance and OOP best practices.
+
+⚙️ Sorting Algorithms Benchmark Suite
+Java | Algorithm Analysis | Big-O Notation
+Implements and compares five sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Counting Sort. Includes benchmarking, time comparisons, and complexity analysis.
+
+🏉 Wild Atlantic Way Rugby Club Database System
+MySQL | Database Design | ERD | DDL/DML Scripts
+A fully modelled relational database including members, teams, matches, events, and coaches. Features entity design, normalization, SQL queries, and Workbench schema diagrams.
+
+🐾 Veterinary Practice Database System
+MySQL | Workbench | Relational Modelling
+Database for a Galway-based veterinary clinic with appointments, billing, medication, staff, and clients. Includes schema creation, inserts, updates, and business rules.
+
+🧮 Computer Architecture & Technology Convergence Project
+Binary Arithmetic | Logic Circuits | OS Concepts | Linux Scripting
+Hands-on project covering two’s complement, logic gates, scheduling algorithms, shell scripting, and memory management.
 
 ---
 
